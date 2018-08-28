@@ -25,7 +25,7 @@ To install Android Studio on Windows, proceed as follows:
 <li>Follow the setup wizard in Android Studio and install any SDK packages that it recommends. 
   
 <h3>Mac</h3>
-<ol>
+<ol type="1">
 To install Android Studio on your Mac, proceed as follows:
 <li>Launch the Android Studio DMG file. 
 <li>Drag and drop Android Studio into the Applications folder, then launch Android Studio. 
@@ -35,7 +35,7 @@ To install Android Studio on your Mac, proceed as follows:
 </ol>
 
 <h3>Linux</h3>
-<ol>
+<ol type="1">
 To install Android Studio on Linux, proceed as follows:
 <li>Extract the archive file into an appropriate location for your applications, eg: /opt or in the home directory. Use the            filename of your downloaded archive, for example
   <b>sudo unzip android-studio-ide-*.zip -d /opt</b>
@@ -45,7 +45,6 @@ To install Android Studio on Linux, proceed as follows:
 <li>The Android Studio Setup Wizard guides you though the rest of the setup, which includes downloading Android SDK components   that are required for development.
 <b>Tip</b>: To make Android Studio available in your list of applications, select <b>Tools > Create Desktop Entry</b> from the Android Studio menu bar.
 
-<p><h4>Important points -</h4> 
+<h4>Important points -</h4> 
 SDK stands for Software Developement Kit, which includes developement tools for additional software platforms. For instance, Android SDK is supposed to develope applications under Android OS. The SDK is the generic bundle of software that supports software creation in a variety of languages like Clojure, Groovy, Scala, JRuby, and others. JDK stands for Java Developement Kit, which includes important things for developers. For instance, java compiler. The JDK is the specific bundle to develop software in Java language, containing all Java standard API to do so.
  
-</p>
