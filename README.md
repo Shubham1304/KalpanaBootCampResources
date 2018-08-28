@@ -2,7 +2,7 @@
 A repository of the resources for the Kalpana Bootcamp-2018
 
 
-<b><h1>WebDev-Bootcamp (29 August) Resource</h1></b> - <h3><a href="Tiny.cc/wreq"> Click here </a></h3>
+<b><h1>WebDev-Bootcamp (29 August) Resource</h1></b> - <h3><a href="https://github.com/jdmallige/WebDev-Bootcamp/blob/master/README.md#webdev-bootcamp"> Click here </a></h3>
 
 <b><h1>AppDev-Bootcamp (30 August) Prerequisites</h1></b>
 
@@ -12,7 +12,7 @@ A repository of the resources for the Kalpana Bootcamp-2018
 Setting up Android Studio takes just a few clicks. 
 To set up android studio, following needs to be downloaded - 
 1) Java JDK -  <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html">download java jdk</a>
-2) Android Studio IDE - <a href="">download the latest version of Android Studio</a>
+2) Android Studio IDE - <a href="https://developer.android.com/studio/">download the latest version of Android Studio</a>
 <u>Note : No need to install any sdk packages separately as they are already included in the android studio. Just follow the steps. You will be guided to install sdk tools in the Android Studio IDE. To develop Android apps, you need to have an IDE (integrated development environment) and JDK installed.</u>
 
 <h3>Windows<h3>
