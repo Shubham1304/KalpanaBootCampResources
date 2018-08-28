@@ -25,7 +25,8 @@ To install Android Studio on Windows, proceed as follows:
 <li>Follow the setup wizard in Android Studio and install any SDK packages that it recommends. 
   
 <h3>Mac</h3>
-<ol>To install Android Studio on your Mac, proceed as follows:
+<ol>
+To install Android Studio on your Mac, proceed as follows:
 <li>Launch the Android Studio DMG file. 
 <li>Drag and drop Android Studio into the Applications folder, then launch Android Studio. 
 <li>Select whether you want to import previous Android Studio settings, then click <b>OK</b>. 
@@ -34,7 +35,8 @@ To install Android Studio on Windows, proceed as follows:
 </ol>
 
 <h3>Linux</h3>
-<ol>To install Android Studio on Linux, proceed as follows:
+<ol>
+To install Android Studio on Linux, proceed as follows:
 <li>Extract the archive file into an appropriate location for your applications, eg: /opt or in the home directory. Use the            filename of your downloaded archive, for example
   <b>sudo unzip android-studio-ide-*.zip -d /opt</b>
 
