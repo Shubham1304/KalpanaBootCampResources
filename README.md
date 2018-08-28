@@ -23,7 +23,8 @@ To install Android Studio on Windows, proceed as follows:
 <li>If you downloaded an .exe file (recommended), double-click to launch it. 
     If you downloaded a .zip file, unpack the ZIP, copy the <b>android-studio</b> folder into your <b>Program Files</b> folder,           and then open the <b>android-studio > bin</b> folder and launch studio64.exe (for 64-bit machines) or studio.exe (for 32-bit    machines).
 <li>Follow the setup wizard in Android Studio and install any SDK packages that it recommends. 
-  
+</ol>
+
 <h3>Mac</h3>
 <ol type="1">
 To install Android Studio on your Mac, proceed as follows:
