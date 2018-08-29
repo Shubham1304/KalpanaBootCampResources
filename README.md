@@ -50,3 +50,4 @@ To install Android Studio on Linux, proceed as follows:
 <h4>Important points -</h4> 
 SDK stands for Software Developement Kit, which includes developement tools for additional software platforms. For instance, Android SDK is supposed to develope applications under Android OS. The SDK is the generic bundle of software that supports software creation in a variety of languages like Clojure, Groovy, Scala, JRuby, and others. JDK stands for Java Developement Kit, which includes important things for developers. For instance, java compiler. The JDK is the specific bundle to develop software in Java language, containing all Java standard API to do so.
  
+If you get your android studio installed, do install an <b>emulator</b> as well. Also bring your <b>data cables</b> with you.
